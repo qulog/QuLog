@@ -1,0 +1,101 @@
+,original_log_message,modified_log_message,word_changed,word_inserted,location_changed,original_preds,modified_preds
+0,[CLS] httperror,[CLS] httpserver,httperror,httpserver,1.0,0,1
+1,[CLS] login failed,[CLS] login successful,failed,successful,2.0,0,1
+2,[CLS] unknown feed format format,[CLS] known feed format format,unknown,known,1.0,0,1
+3,[CLS] scraper bug processing request,[CLS] scraper successful processing request,bug,successful,2.0,0,1
+4,[CLS] error message,[CLS] info message,error,info,1.0,0,1
+5,[CLS] error getting device infos,[CLS] successful getting device infos,error,successful,1.0,0,1
+6,[CLS] failed parse config key got,[CLS] successful parse config key got,failed,successful,1.0,0,1
+7,[CLS] cannot listen lightning error,[CLS] able listen lightning error,cannot,able,1.0,0,0
+8,[CLS] failed create client,[CLS] failed create client,failed,successful,1.0,0,0
+9,[CLS] library failed load exceptions,[CLS] library successful load exceptions,failed,successful,2.0,0,1
+10,[CLS] failed,[CLS] succeed,failed,succeed,1.0,0,1
+11,[CLS] library found loaded error using,[CLS] library found loaded suffix using,error,suffix,4.0,0,1
+12,[CLS] failed load,[CLS] executed load,failed,executed,1.0,0,1
+13,[CLS] failed load zbar exceptions,[CLS] executed load zbar exceptions,failed,executed,1.0,0,1
+14,[CLS] error getting device infos,[CLS] successfully getting device infos,error,successfully,0.0,0,1
+15,[CLS] gui raised exception shutting,[CLS] gui dockercommand exception shutting,raised,dockercommand,2.0,0,0
+16,[CLS] recovery error,[CLS] recovery successful,error,successful,2.0,0,1
+17,[CLS] problem automatic reporting,[CLS] cleared automatic reporting,problem,cleared,1.0,0,1
+18,[CLS] exception caught crash reporter,[CLS] testcase caught crash reporter,exception,testcase,1.0,0,0
+19,[CLS] exception caught crash reporter,[CLS] exception caught docker reporter,crash,docker,3.0,0,0
+20,[CLS] error synchronising labels,[CLS] successful synchronising labels,error,successful,1.0,0,1
+21,[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2.0,0,1
+22,[CLS] exception,[CLS] case,exception,case,1.0,0,1
+23,[CLS] cannot initialize plugin,[CLS] successfully initialize plugin,cannot,successfully,1.0,0,1
+24,[CLS] cannot load plugin,[CLS] cannot load plugin,cannot,successfully,1.0,0,0
+25,[CLS] plugin error plugin,[CLS] plugin info plugin,error,info,2.0,0,1
+26,[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2.0,0,1
+27,[CLS] failed apply windows dns hack,[CLS] suceeded apply windows dns hack,failed,suceeded,1.0,0,0
+28,[CLS] invalid request,[CLS] valid request,invalid,valid,1.0,0,1
+29,[CLS] internal error executing rpc,[CLS] internal value executing rpc,error,value,2.0,0,0
+30,[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2.0,0,1
+31,[CLS] exception coro scheduled via window wallet,[CLS] case coro scheduled via window wallet,exception,case,1.0,0,1
+32,[CLS] error adding payment request,[CLS] validated adding payment request,error,validated,1.0,0,1
+33,[CLS] failed update password,[CLS] successful update password,failed,successful,1.0,0,1
+34,[CLS] invalid public key,[CLS] valid public key,invalid,valid,1.0,0,0
+35,[CLS] cannot display plugin,[CLS] cann display plugin,cannot,cann,1.0,0,0
+36,[CLS] unable deserialize transaction,[CLS] able deserialize transaction,unable,able,1.0,0,0
+37,[CLS] failed import backup,[CLS] succeded import backup,failed,succeded,1.0,0,1
+38,[CLS] problem opening channel,[CLS] problem opening channel,problem,case,1.0,0,0
+39,[CLS] could close channel,[CLS] could open channel,close,open,2.0,0,0
+40,[CLS] could close docker,[CLS] could close docker,close,docker,3.0,0,0
+41,[CLS] could force close channel,[CLS] could force open channel,close,open,3.0,0,0
+42,[CLS] error showing address,[CLS] info showing address,error,info,1.0,0,1
+43,[CLS] error showing address,[CLS] error representing address,showing,representing,2.0,0,0
+44,[CLS] error showing address,[CLS] info showing address,error,info,1.0,0,1
+45,[CLS] late failure connecting device,[CLS] late successfully connecting device,failure,successfully,2.0,0,1
+46,[CLS] could retrieve terms service,[CLS] could cancel terms service,retrieve,cancel,2.0,0,0
+47,[CLS] error importing trezorlib,[CLS] case importing trezorlib,error,case,1.0,0,1
+48,[CLS] cowardly refusing process mod state change request,[CLS] cowardly allowing process mod state change request,refusing,allowing,2.0,0,0
+49,[CLS] cowardly refusing send event generator broken mod state,[CLS] cowardly refusing send event generator fixed mod state,broken,fixed,6.0,0,0
+50,[CLS] cowardly refusing send event broken mod state,[CLS] cowardly allowing send event broken mod state,refusing,allowing,2.0,0,0
+51,[CLS] failed load class classname e,[CLS] succeded load class classname e,failed,succeded,1.0,0,0
+52,[CLS] failed create mod instance modid class getmodid modclass getname e,[CLS] succeded create mod instance modid class getmodid modclass getname e,failed,succeded,1.0,0,0
+53,[CLS] failed register automatic subscribers modid class getmodid modclass getname e,[CLS] succeded register automatic subscribers modid class getmodid modclass getname e,failed,succeded,1.0,0,0
+54,[CLS] caught exception event dispatch modid e getmodid,[CLS] caught case event dispatch modid e getmodid,exception,case,2.0,0,1
+55,[CLS] recieved unexpected index client reply message getasint,[CLS] recieved expected index client reply message getasint,unexpected,expected,2.0,0,1
+56,[CLS] missing registry data network connection n new advancedlogmessageadapter sb missingdata foreach reg entry sb append append reg append append entry append n successfulconnection set missingdata isempty block countdown logger debug,[CLS] finding registry data network connection n new advancedlogmessageadapter sb missingdata foreach reg entry sb append append reg append append entry append n successfulconnection set missingdata isempty block countdown logger debug,missing,finding,1.0,0,1
+57,[CLS] failed load registry closing connection,[CLS] succeded load registry closing connection,failed,succeded,1.0,0,1
+58,[CLS] attempted register channel even though registry phase name,[CLS] replaced register channel even though registry phase name,attempted,replaced,1.0,0,1
+59,[CLS] invalid login message,[CLS] valid login message,invalid,valid,1.0,0,1
+60,[CLS] failed remove config tracker,[CLS] succeded remove config tracker,failed,succeded,1.0,0,1
+61,[CLS] detected config file conflict config getfilename filemap get config getfilename getmodid config getmodid,[CLS] replaced config file conflict config getfilename filemap get config getfilename getmodid config getmodid,detected,replaced,1.0,0,0
+62,[CLS] unable determine codesource using default libraries directory,[CLS] able determine codesource using default libraries directory,unable,able,1.0,0,0
+63,[CLS] unable read jar file ignoring,[CLS] cann read jar file ignoring,unable,cann,1.0,0,1
+64,[CLS] error occurred extracting dependency,[CLS] case occurred extracting dependency,error,case,1.0,0,1
+65,[CLS] error occurred extracting dependency,[CLS] error occurred extracting node,dependency,node,4.0,0,0
+66,[CLS] unable locate field type,[CLS] able locate field type,unable,able,1.0,0,0
+67,[CLS] unable set field type,[CLS] able set field type,unable,able,1.0,0,0
+68,[CLS] domain missing texture,[CLS] domain possessing texture,missing,possessing,2.0,0,1
+69,[CLS] domain missing resource manager probably side effect automatic texture processing,[CLS] domain possessing resource manager probably side effect automatic texture processing,missing,possessing,2.0,0,0
+70,[CLS] unknown resourcepack type,[CLS] known resourcepack type,unknown,known,1.0,0,1
+71,[CLS] missing resources domain,[CLS] inspecting resources domain,missing,inspecting,1.0,0,1
+72,[CLS] errors exist domain,[CLS] cases exist domain,errors,cases,1.0,0,0
+73,[CLS] problem,[CLS] catalog,problem,catalog,1.0,0,0
+74,[CLS] critical issue trying build config gui,[CLS] normal issue trying build config gui,critical,normal,1.0,0,1
+75,[CLS] failed tab complete,[CLS] successful tab complete,failed,successful,1.0,0,1
+76,[CLS] normal location exception,[CLS] normal location case,exception,case,3.0,0,1
+77,[CLS] blockstate location exception,[CLS] blockstate location case,exception,case,3.0,0,1
+78,[CLS] exception loading blockstate variant,[CLS] case loading blockstate variant,exception,case,1.0,0,1
+79,[CLS] parse loot modifier,[CLS] parse loot staticfileserver,modifier,staticfileserver,3.0,0,0
+80,[CLS] read global loot modifier list data pack,[CLS] read global loot modifier list data pack,modifier,staticfileserver,4.0,0,0
+81,[CLS] parse loot modifier,[CLS] parse loot staticfileserver,modifier,staticfileserver,3.0,0,0
+82,[CLS] unable find clip model,[CLS] able find clip model,unable,able,1.0,0,0
+83,[CLS] unknown special event,[CLS] known special event,unknown,known,1.0,0,1
+84,[CLS] exception loading animation state machine skipping,[CLS] case loading animation state machine skipping,exception,case,1.0,0,1
+85,[CLS] unable invalidate thread cache thread fields logs may inaccurate,[CLS] able invalidate thread cache thread fields logs may inaccurate,unable,able,1.0,0,0
+86,[CLS] unable invalidate thread cache thread fields logs may inaccurate,[CLS] unable invalidate thread cache thread fields logs may accurate,inaccurate,accurate,9.0,0,0
+87,[CLS] unsupported number texture coords,[CLS] supported number texture coords,unsupported,supported,1.0,0,0
+88,[CLS] duplicate keys ignored,[CLS] duplicate keys accepted,ignored,accepted,3.0,1,0
+89,[CLS] exception loading vanilla model animation skipping,[CLS] case loading vanilla model animation skipping,exception,case,1.0,0,1
+90,[CLS] found discrepancies generated vanilla item models,[CLS] found correct generated vanilla item models,discrepancies,correct,2.0,1,1
+91,[CLS] found discrepancies generated vanilla models blockstates,[CLS] found discrepancies generated vanilla models node,blockstates,node,6.0,1,1
+92,[CLS] missing language version wanted,[CLS] found language version wanted,missing,found,1.0,0,1
+93,[CLS] missing language version wanted found,[CLS] found language version wanted found,missing,found,1.0,0,1
+94,[CLS] exception scanning path e,[CLS] case scanning path e,exception,case,1.0,0,1
+95,[CLS] error occurred scanning file file throwable,[CLS] info occurred scanning file file throwable,error,info,1.0,0,1
+96,[CLS] unknown special event,[CLS] unknown others event,special,other,2.0,0,0
+97,[CLS] critical issue trying build config gui,[CLS] critical case trying build config gui,issue,case,2.0,0,1
+98,[CLS] login failed,[CLS] login completed,failed,completed,2.0,0,1
+99,[CLS] connection refused,[CLS] connection established,refused,established,2.0,0,1

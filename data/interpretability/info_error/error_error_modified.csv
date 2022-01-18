@@ -1,0 +1,101 @@
+original_log_message,modified_log_message,word_changed,word_inserted,location_changed
+[CLS] httperror,[CLS] httpserver,httperror,httpserver,1
+[CLS] login failed,[CLS] login successful,failed,successful,2
+[CLS] unknown feed format format,[CLS] known feed format format,unknown,known,1
+[CLS] scraper bug processing request,[CLS] scraper successful processing request,bug,successful,2
+[CLS] error message,[CLS] info message,error,info,1
+[CLS] error getting device infos,[CLS] successful getting device infos,error,successful,1
+[CLS] failed parse config key got,[CLS] successful parse config key got,failed,successful,1
+[CLS] cannot listen lightning error,[CLS] able listen lightning error,cannot,able,1
+[CLS] failed create client,[CLS] failed create client,failed,successful,1
+[CLS] library failed load exceptions,[CLS] library successful load exceptions,failed,successful,2
+[CLS] failed,[CLS] succeed,failed,succeed,1
+[CLS] library found loaded error using,[CLS] library found loaded suffix using,error,suffix,4
+[CLS] failed load,[CLS] executed load,failed,executed,1
+[CLS] failed load zbar exceptions,[CLS] executed load zbar exceptions,failed,executed,1
+[CLS] error getting device infos,[CLS] successfully getting device infos,error,successfully,0.0
+[CLS] gui raised exception shutting,[CLS] gui dockercommand exception shutting,raised,dockercommand,2
+[CLS] recovery error,[CLS] recovery successful,error,successful,2
+[CLS] problem automatic reporting,[CLS] cleared automatic reporting,problem,cleared,1
+[CLS] exception caught crash reporter,[CLS] testcase caught crash reporter,exception,testcase,1
+[CLS] exception caught crash reporter,[CLS] exception caught docker reporter,crash,docker,3
+[CLS] error synchronising labels,[CLS] successful synchronising labels,error,successful,1
+[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2
+[CLS] exception,[CLS] case,exception,case,1
+[CLS] cannot initialize plugin,[CLS] successfully initialize plugin,cannot,successfully,1
+[CLS] cannot load plugin,[CLS] cannot load plugin,cannot,successfully,1
+[CLS] plugin error plugin,[CLS] plugin info plugin,error,info,2
+[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2
+[CLS] failed apply windows dns hack,[CLS] suceeded apply windows dns hack,failed,suceeded,1
+[CLS] invalid request,[CLS] valid request,invalid,valid,1
+[CLS] internal error executing rpc,[CLS] internal value executing rpc,error,value,2
+[CLS] taskgroup died,[CLS] taskgroup continued,died,continued,2
+[CLS] exception coro scheduled via window wallet,[CLS] case coro scheduled via window wallet,exception,case,1
+[CLS] error adding payment request,[CLS] validated adding payment request,error,validated,1
+[CLS] failed update password,[CLS] successful update password,failed,successful,1
+[CLS] invalid public key,[CLS] valid public key,invalid,valid,1
+[CLS] cannot display plugin,[CLS] cann display plugin,cannot,cann,1
+[CLS] unable deserialize transaction,[CLS] able deserialize transaction,unable,able,1
+[CLS] failed import backup,[CLS] succeded import backup,failed,succeded,1
+[CLS] problem opening channel,[CLS] problem opening channel,problem,case,1
+[CLS] could close channel,[CLS] could open channel,close,open,2
+[CLS] could close docker,[CLS] could close docker,close,docker,3
+[CLS] could force close channel,[CLS] could force open channel,close,open,3
+[CLS] error showing address,[CLS] info showing address,error,info,1
+[CLS] error showing address,[CLS] error representing address,showing,representing,2
+[CLS] error showing address,[CLS] info showing address,error,info,1
+[CLS] late failure connecting device,[CLS] late successfully connecting device,failure,successfully,2
+[CLS] could retrieve terms service,[CLS] could cancel terms service,retrieve,cancel,2
+[CLS] error importing trezorlib,[CLS] case importing trezorlib,error,case,1
+[CLS] cowardly refusing process mod state change request,[CLS] cowardly allowing process mod state change request,refusing,allowing,2
+[CLS] cowardly refusing send event generator broken mod state,[CLS] cowardly refusing send event generator fixed mod state,broken,fixed,6
+[CLS] cowardly refusing send event broken mod state,[CLS] cowardly allowing send event broken mod state,refusing,allowing,2
+[CLS] failed load class classname e,[CLS] succeded load class classname e,failed,succeded,1
+[CLS] failed create mod instance modid class getmodid modclass getname e,[CLS] succeded create mod instance modid class getmodid modclass getname e,failed,succeded,1
+[CLS] failed register automatic subscribers modid class getmodid modclass getname e,[CLS] succeded register automatic subscribers modid class getmodid modclass getname e,failed,succeded,1
+[CLS] caught exception event dispatch modid e getmodid,[CLS] caught case event dispatch modid e getmodid,exception,case,2
+[CLS] recieved unexpected index client reply message getasint,[CLS] recieved expected index client reply message getasint,unexpected,expected,2
+[CLS] missing registry data network connection n new advancedlogmessageadapter sb missingdata foreach reg entry sb append append reg append append entry append n successfulconnection set missingdata isempty block countdown logger debug,[CLS] finding registry data network connection n new advancedlogmessageadapter sb missingdata foreach reg entry sb append append reg append append entry append n successfulconnection set missingdata isempty block countdown logger debug,missing,finding,1
+[CLS] failed load registry closing connection,[CLS] succeded load registry closing connection,failed,succeded,1
+[CLS] attempted register channel even though registry phase name,[CLS] replaced register channel even though registry phase name,attempted,replaced,1
+[CLS] invalid login message,[CLS] valid login message,invalid,valid,1
+[CLS] failed remove config tracker,[CLS] succeded remove config tracker,failed,succeded,1
+[CLS] detected config file conflict config getfilename filemap get config getfilename getmodid config getmodid,[CLS] replaced config file conflict config getfilename filemap get config getfilename getmodid config getmodid,detected,replaced,1
+[CLS] unable determine codesource using default libraries directory,[CLS] able determine codesource using default libraries directory,unable,able,1
+[CLS] unable read jar file ignoring,[CLS] cann read jar file ignoring,unable,cann,1
+[CLS] error occurred extracting dependency,[CLS] case occurred extracting dependency,error,case,1
+[CLS] error occurred extracting dependency,[CLS] error occurred extracting node,dependency,node,4
+[CLS] unable locate field type,[CLS] able locate field type,unable,able,1
+[CLS] unable set field type,[CLS] able set field type,unable,able,1
+[CLS] domain missing texture,[CLS] domain possessing texture,missing,possessing,2
+[CLS] domain missing resource manager probably side effect automatic texture processing,[CLS] domain possessing resource manager probably side effect automatic texture processing,missing,possessing,2
+[CLS] unknown resourcepack type,[CLS] known resourcepack type,unknown,known,1
+[CLS] missing resources domain,[CLS] inspecting resources domain,missing,inspecting,1
+[CLS] errors exist domain,[CLS] cases exist domain,errors,cases,1
+[CLS] problem,[CLS] catalog,problem,catalog,1
+[CLS] critical issue trying build config gui,[CLS] normal issue trying build config gui,critical,normal,1
+[CLS] failed tab complete,[CLS] successful tab complete,failed,successful,1
+[CLS] normal location exception,[CLS] normal location case,exception,case,3
+[CLS] blockstate location exception,[CLS] blockstate location case,exception,case,3
+[CLS] exception loading blockstate variant,[CLS] case loading blockstate variant,exception,case,1
+[CLS] parse loot modifier,[CLS] parse loot staticfileserver,modifier,staticfileserver,3
+[CLS] read global loot modifier list data pack,[CLS] read global loot modifier list data pack,modifier,staticfileserver,4
+[CLS] parse loot modifier,[CLS] parse loot staticfileserver,modifier,staticfileserver,3
+[CLS] unable find clip model,[CLS] able find clip model,unable,able,1
+[CLS] unknown special event,[CLS] known special event,unknown,known,1
+[CLS] exception loading animation state machine skipping,[CLS] case loading animation state machine skipping,exception,case,1
+[CLS] unable invalidate thread cache thread fields logs may inaccurate,[CLS] able invalidate thread cache thread fields logs may inaccurate,unable,able,1
+[CLS] unable invalidate thread cache thread fields logs may inaccurate,[CLS] unable invalidate thread cache thread fields logs may accurate,inaccurate,accurate,9
+[CLS] unsupported number texture coords,[CLS] supported number texture coords,unsupported,supported,1
+[CLS] duplicate keys ignored,[CLS] duplicate keys accepted,ignored,accepted,3
+[CLS] exception loading vanilla model animation skipping,[CLS] case loading vanilla model animation skipping,exception,case,1
+[CLS] found discrepancies generated vanilla item models,[CLS] found correct generated vanilla item models,discrepancies,correct,2
+[CLS] found discrepancies generated vanilla models blockstates,[CLS] found discrepancies generated vanilla models node,blockstates,node,6
+[CLS] missing language version wanted,[CLS] found language version wanted,missing,found,1
+[CLS] missing language version wanted found,[CLS] found language version wanted found,missing,found,1
+[CLS] exception scanning path e,[CLS] case scanning path e,exception,case,1
+[CLS] error occurred scanning file file throwable,[CLS] info occurred scanning file file throwable,error,info,1
+[CLS] unknown special event,[CLS] unknown others event,special,other,2
+[CLS] critical issue trying build config gui,[CLS] critical case trying build config gui,issue,case,2
+[CLS] login failed,[CLS] login completed,failed,completed,2
+[CLS] connection refused,[CLS] connection established,refused,established,2

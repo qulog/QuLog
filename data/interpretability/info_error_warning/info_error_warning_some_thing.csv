@@ -1,0 +1,86 @@
+original_log_message,modified_log_message,word_changed,word_inserted,location_changed,ground_truth_changed,ground_truth,prediction
+[CLS] price info request failed,[CLS] price info request succeded,failed,succeded,4,1,2,2
+[CLS] interrupted,[CLS] executed,interrupted,executed,1,1,2,2
+[CLS] interrupted,[CLS] failed,interrupted,failed,1,0,2,2
+[CLS] worker interrupted,[CLS] worker exit,interrupted,exit,2,1,2,2
+[CLS] worker interrupted,[CLS] node interrupted,worker,node,2,2,2,2
+[CLS] found using defaults,[CLS] found using inclusion,defaults,inclusion,3,1,2,2
+[CLS] callable service object skipping,[CLS] callable service object killing,skipping,killing,4,0,2,2
+[CLS] current script detecting assuming dashboard running old suffix,[CLS] current script erase assuming dashboard running old suffix,detecting,erase,3,2,2,2
+[CLS] local mode currently supports single worker,[CLS] local mode currently discard single worker,supports,discard,4,2,2,2
+[CLS] could find owners,[CLS] could find owners,0.0,0.0,0.0,0.0,2,2
+[CLS] could find dependency info owners configurations,[CLS] couldnot find dependency info owners configurations,could,couldnot,1,0,2,2
+[CLS] unknown timer fired,[CLS] known timer fired,unknown,known,1,1,2,2
+[CLS] discarding unrecognized arguments,[CLS] keeping unrecognized arguments,discarding,keeping,1,2,2,2
+[CLS] discarding unrecognized arguments,[CLS] discarding recognized arguments,unrecognized,recognized,2,2,2,2
+[CLS] discarding unparseable args,[CLS] discarding unparseable args,discarding,keeping,1,2,2,2
+[CLS] discarding invalid overrides,[CLS] discarding invalid overrides,invalid,valid,2,2,2,2
+[CLS] unable create default gcs bucket,[CLS] failed create default gcs bucket,unable,failed,1,0,2,2
+[CLS] tensorflow installed skipping tests,[CLS] tensorflow installed executing tests,skipping,executing,3,1,2,2
+[CLS] provided timestamp emplaced past,[CLS] provided timestamp emplaced future,past,future,4,2,2,2
+[CLS] could find compatible bson package,[CLS] couldnot find compatible bson package,couldnt,couldnot,1,0,2,2
+[CLS] key coder transform stateful dofn may,[CLS] key coder transform stateful dofn may,coder,node,2,2,2,2
+[CLS] ignoring hint,[CLS] satisfy hint,ignoring,satisfy,1,2,2,2
+[CLS] ignoring hint,[CLS] ignoring connection,hint,connection,2,1,2,2
+[CLS] could get signature function,[CLS] couldnot get signature function,could,couldnot,1,0,2,2
+[CLS] unable retrieve counter metrics runner,[CLS] able retrieve counter metrics runner,unable,able,1,1,2,2
+[CLS] unable retrieve distribution metrics runner,[CLS] able retrieve distribution metrics runner,unable,able,1,1,2,2
+[CLS] could find owners,[CLS] couldnt find owners,could,couldnt,1,0,2,2
+[CLS] could find dependency info owners configurations,[CLS] couldnt find dependency info owners configurations,couldnt,could,1,0,2,2
+[CLS] successfully found image path,[CLS] unsuccessfully found image path,successfully,unsuccessfully,1,0,1,1
+[CLS] sending request fetch image path,[CLS] failed request fetch image path,sending,failed,1,0,1,1
+[CLS] image path received successfully,[CLS] image path received unsuccessfully,successfully,unsuccessfully,4,0,1,1
+[CLS] sending request fetch price info,[CLS] sending request fetch price error,info,error,5,0,1,1
+[CLS] unknown timer fired,[CLS] known timer fired,unknown,known,1,1,2,2
+[CLS] query noutput,[CLS] invalidquery noutput,query,invalidquery,1,0,1,1
+[CLS] using accumulators beamaccumulatorprovider,[CLS] using accumulators failed,beamaccumulatorprovider,failed,3,0,1,1
+[CLS] closing idle shard writer minute idle time,[CLS] closing idle shard writer minute idle time,idle,failed,6,0,1,1
+[CLS] creating readablebytechannel,[CLS] creating readablebytechannel,creating,removing,1,0.0,1,1
+[CLS] created container called,[CLS] created container nonexistent,called,nonexistent,3,2,1,1
+[CLS] starting activemq brokerservice,[CLS] quitting activemq brokerservice,starting,quitting,1,0,1,1
+[CLS] waiting pipeline connected mqtt broker sending,[CLS] waiting pipeline disconnected mqtt broker sending,connected,disconnected,3,0,1,1
+[CLS] snowflake snowpipe info entry tostring,[CLS] snowflake snowpipe error entry tostring,info,error,3,0,1,1
+[CLS] creating new reader using,[CLS] creating new reader using,creating,disconnecting,1,1,1,1
+[CLS] starting embedded elasticsearch instance,[CLS] killing embedded elasticsearch instance,starting,killing,1,0,1,1
+[CLS] elasticsearch node created,[CLS] elasticsearch node destroyed,created,destroyed,3,0,1,1
+[CLS] pausing allow direct runner worker threads finish,[CLS] pausing prevent direct runner worker threads finish,allow,prevent,2,2,1,1
+[CLS] removing unreleased solrzkclient,[CLS] keeping unreleased solrzkclient,removing,keeping,1,2,1,1
+[CLS] closing publisher transport,[CLS] opening publisher transport,closing,opening,1,1,1,1
+[CLS] certificate validation disabled,[CLS] certificate validation enabled,disabled,enabled,3,2,1,1
+[CLS] disable certificate validation set,[CLS] enable certificate validation set,disable,enable,1,0,1,1
+[CLS] successfully created httpeventpublisher,[CLS] failing created httpeventpublisher,successfully,failing,1,0,1,1
+[CLS] flushing batch events,[CLS] flushing batch cases,events,cases,3,1,1,1
+[CLS] successfully closed httpeventpublisher,[CLS] successfully open httpeventpublisher,closed,open,2,1,1,1
+[CLS] successfully wrote events,[CLS] failing wrote events,successfully,failing,1,0,1,1
+[CLS] configuring splunkeventwriter,[CLS] configuring node,splunkeventwriter,node,2,1,1,1
+[CLS] deleting temporary table query results,[CLS] deleting permanent table query results,temporary,permanent,2,1,1,1
+[CLS] deleting temporary dataset query results,[CLS] keeping temporary dataset query results,deleting,keeping,1,2,1,1
+[CLS] failed running pipeline,[CLS] succeeded running pipeline,failed,succeeded,1,1,0,0
+[CLS] uncaught exception main thread exiting status code,[CLS] caught exception main thread exiting status code,uncaught,caught,1,1,0,0
+[CLS] fetch failed,[CLS] fetch succeeded,failed,succeeded,2,1,0,0
+[CLS] threads died,[CLS] threads live,died,live,2,1,0,0
+[CLS] invalid source,[CLS] valid source,invalid,valid,1,1,0,0
+[CLS] exception catch updateprogress,[CLS] case catch updateprogress,exception,case,1,1,0,0
+[CLS] failed create new stream retrying,[CLS] able create new stream retrying,failed,able,1,1,0,0
+[CLS] failed parse work item stream,[CLS] succesfully parse work item stream,failed,succesfully,1,1,0,0
+[CLS] parsing getdata response failed,[CLS] parsing getdata response failed,failed,passed,4,1,0,0
+[CLS] error uploading heap dump,[CLS] succesfully uploading heap dump,error,succesfully,1,1,0,0
+[CLS] throwing exception checkpointing counter,[CLS] throwing case checkpointing counter,exception,case,2,1,0,0
+[CLS] failed fetch job metadata,[CLS] succesfully fetch job metadata,failed,succesfully,1,1,0,0
+[CLS] failed start worker request getworkerid exn,[CLS] able start worker request getworkerid exn,failed,able,1,1,0,0
+[CLS] received error,[CLS] received success,error,success,2,1,0,0
+[CLS] error submitting,[CLS] info submitting,error,info,1,1,0,0
+[CLS] error staging artifacts,[CLS] succesfully staging artifacts,error,succesfully,1,1,0,0
+[CLS] error staging artifacts,[CLS] succesfully staging artifacts,error,succesfully,1,1,0,0
+[CLS] could prepare job name,[CLS] couldnot prepare job name,could,couldnot,1,0,0,0
+[CLS] encountered unexpected exception,[CLS] encountered expected exception,unexpected,expected,2,2,1,0
+[CLS] encountered exception job invocation invocationid e,[CLS] encountered case job invocation invocationid e,exception,succesfully,2,1,0,0
+[CLS] error describing pipeline options,[CLS] succesfully describing pipeline options,error,succesfully,1,1,0,0
+[CLS] error closing jobserver,[CLS] error closing jobserver,error,succesfully,1,1,0,0
+[CLS] error closing artifactstagingserver,[CLS] succesfully closing artifactstagingserver,error,succesfully,1,1,0,0
+[CLS] error closing expansion service,[CLS] succesfully closing expansion service,error,succesfully,1,1,0,0
+[CLS] pipeline execution failed,[CLS] pipeline execution succeeded,failed,succeeded,0.0,0.0,0,0
+[CLS] unable parse command line arguments,[CLS] able parse command line arguments,unable,able,1,1,0,0
+[CLS] error close,[CLS] connection close,error,connection,1,1,0,0
+[CLS] failed create metrics accumulator,[CLS] successful create metrics accumulator,failed,successful,1,1,0,0
+[CLS] exception executing impulsesourcefunction,[CLS] case executing impulsesourcefunction,exception,failed,1,1,0,0
