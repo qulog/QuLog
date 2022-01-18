@@ -10,6 +10,6 @@ To start with the code clone this github repo:
 git clone https://github.com/qulog/QuLog.git
 
 Then install the requirments
-pip install requirmentx.txt
+pip install requirments.txt
 
 After preparing the datasets, the methods can be accessed from each individual script. One need to modifty the paths for the correct directories where the data is located. 
