@@ -5,7 +5,7 @@ The preprocessed datasets can be found in the data folder.
 
 To start with the code clone this github repo: 
 
-git clone 
+git clone https://github.com/qulog/QuLog.git
 
 Then install the requirments
 pip install requirmentx.txt
