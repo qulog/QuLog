@@ -17,14 +17,10 @@ contextvars==2.4
 cycler==0.10.0
 cymem==2.0.5
 databricks-cli==0.14.3
-dataclasses==0.8
 decorator==4.4.2
 docker==5.0.0
 dtreeviz==1.3
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
-en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.0.0/en_core_web_trf-3.0.0-py3-none-any.whl
 entrypoints==0.3
-es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.0.0/es_core_news_sm-3.0.0-py3-none-any.whl
 filelock==3.0.12
 Flask==2.0.1
 flatbuffers==1.12
@@ -64,7 +60,6 @@ mord==0.6
 murmurhash==1.0.5
 nltk==3.6
 nose==1.3.7
-numba==0.52.0
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
@@ -104,7 +99,6 @@ sacremoses==0.0.45
 scikit-learn==0.24.1
 scipy==1.5.4
 seaborn==0.11.1
-shap==0.38.1
 six==1.15.0
 sklearn==0.0
 slicer==0.0.7
@@ -112,9 +106,6 @@ smart-open==3.0.0
 smatch==1.0.4
 smmap==4.0.0
 spacy==3.0.5
-spacy-alignments==0.8.3
-spacy-legacy==3.0.1
-spacy-transformers==1.0.2
 SQLAlchemy==1.4.17
 sqlparse==0.4.1
 srsly==2.4.0
