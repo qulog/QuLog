@@ -1,3 +1,6 @@
+## Meta-review
+We tried our best to insert as much as possible information into the main manuscript. For the comments that were lacking space, we inserted them as supplementary material. Following the recommendations from the meta-reviewers, we upload a file: Meta_Review_Comments_Addressed_SupplementaryMaterial_ICPC_QuLog.pdf. It addresses part of the comments raised by the meta reviewers. 
+
 This repository contains the code for the paper **"QuLog: Data-Driven Approach for Log Instruction Quality Assessment*"**. 
 In the folder **code** can be found the evaluation scripts used to obtain the results. Alongside, given are the exact predictions.
 
